@@ -1,0 +1,22 @@
+body {
+    padding: 10%;
+    font-size: 2rem;
+    font-family: "Times New Roman", Times, serif
+}
+
+/*
+input, button {
+    font: inherit;
+}
+*/
+
+p {
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align: justify;
+    text-indent: 2em;
+    line-height: 1.5;
+    word-spacing: 0.1em;
+    font-weight: bold;
+    font-style: italic;
+}
